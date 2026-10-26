@@ -62,3 +62,4 @@ Built by a team of 5 over 3 Agile sprints (January to April 2026). I worked as *
 ## Author
 
 **Ahmed Bahroun** · [LinkedIn](https://www.linkedin.com/in/ahmedbahroun) · [GitHub](https://github.com/ahmedbahroun06)
+**Yassine Amdouni** · [LinkedIn](www.linkedin.com/in/yassine-amdouni2) · [GitHub](https://github.com/Amdouni2)
